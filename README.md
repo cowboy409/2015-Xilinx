@@ -1,2 +1,4 @@
 # 2015-Xilinx
-functionGenerator
+Group Project making FunctionGenerator
+
+The outline is that we can make 
