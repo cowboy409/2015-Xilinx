@@ -17,7 +17,8 @@ https://github.com/cowboy409/PC-based-Function-Generator-VHDL-/blob/master/2015%
 #3 Design Project Report ( Korean Language)
 https://github.com/cowboy409/PC-based-Function-Generator-VHDL-/blob/master/PCFG%20Project%20Report.pdf
 
-#4 Click (code) menu above to see the vhdl files.
+#4 VHDL files
+https://github.com/cowboy409/PC-based-Function-Generator-VHDL-
 
 #5 Brief description about PCFG
 
