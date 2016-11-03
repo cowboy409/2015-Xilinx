@@ -2,7 +2,7 @@
 
 Group Project making PC based FunctionGenerator using FPGA ( Xilinx Spartan3 , VHDL )
 2015 Fall semester ( 2015.11 ) 
-
+Class : Advanced Digital Circuit Design (EEE3163 ) at Sogang Univ. Scored A0
 Designer : JaeSeung Won , JaeSeung Choi   ( Undergraduate at Sogang Univ )
 
 
