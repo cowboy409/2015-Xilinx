@@ -1,7 +1,7 @@
 # PC based Function Generator (PCFG)
 
 Group Project making PC based FunctionGenerator using FPGA ( Xilinx Spartan3 , VHDL )
-2015 Fall semester ( 2015.11 one month ) 
+2015 Fall semester ( 2015.11 ) 
 
 Designer : JaeSeung Won , JaeSeung Choi   ( Undergraduate at Sogang Univ )
 
