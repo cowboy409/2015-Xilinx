@@ -12,10 +12,10 @@ Designer : JaeSeung Won , JaeSeung Choi   ( Undergraduate at Sogang Univ )
 https://github.com/cowboy409/PC-based-Function-Generator-VHDL-/blob/master/overall.png
 
 #2 Design Detail Description ( Korean Language )
-https://github.com/cowboy409/PC-based-Function-Generator-VHDL-/blob/master/2015%20Fall.%20PCFG%20Design%20Project%20Description.pdf
+https://drive.google.com/open?id=0B8bc6hb1KPXaZ0hPOHhHb214Ukk
 
 #3 Design Project Report ( Korean Language)
-https://github.com/cowboy409/PC-based-Function-Generator-VHDL-/blob/master/PCFG%20Project%20Report.pdf
+https://drive.google.com/open?id=0B8bc6hb1KPXaTW5oRGtYWDQ4TUk
 
 #4 VHDL files ( CSG & PCFG TOP is main files)
 https://github.com/cowboy409/PC-based-Function-Generator-VHDL-
