@@ -11,7 +11,7 @@ Designer : JaeSeung Won , JaeSeung Choi   ( Undergraduate at Sogang Univ )
 #1 Overall block diagram
 https://github.com/cowboy409/PC-based-Function-Generator-VHDL-/blob/master/overall.png
 
-#2 Design Detail Description ( Korean Language )
+#2 Design Terms Description ( Korean Language )
 https://drive.google.com/open?id=0B8bc6hb1KPXaZ0hPOHhHb214Ukk
 
 #3 Design Project Report ( Korean Language)
