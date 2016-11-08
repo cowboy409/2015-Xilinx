@@ -20,7 +20,10 @@ https://drive.google.com/open?id=0B8bc6hb1KPXaTW5oRGtYWDQ4TUk
 #4 VHDL files ( CSG & PCFG TOP is main files)
 https://github.com/cowboy409/PC-based-Function-Generator-VHDL-
 
-#5 Brief description about PCFG
+#5 Debugging. ( Photo )
+https://drive.google.com/open?id=0B8bc6hb1KPXaR2pla1I2Y3JBMFE
+
+#6 Brief description about PCFG
 
 PCFG is PC based Function Generator. Based on PC, it need USB communication with PC.  
 Used USB Controller in Xilinx Spartan3 Board.  
